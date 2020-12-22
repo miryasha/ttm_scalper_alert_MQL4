@@ -17,4 +17,6 @@ The TTM_ScalperAlert comprises two plots, Pivot High and Pivot Low. Pivot High i
 copy both files inside 
 MetaQuotes\Terminal\MQL4\Indicators
 
-<image src="">
+## Picture of template
+<img src="capture.PNG" alt="PNG">
+
