@@ -18,5 +18,5 @@ copy both files inside
 MetaQuotes\Terminal\MQL4\Indicators
 
 ## Picture of template
-<img src="capture.PNG" alt="PNG">
+<img src="Capture.JPG" alt="JPG">
 
